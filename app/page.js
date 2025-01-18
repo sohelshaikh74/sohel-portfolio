@@ -4,7 +4,7 @@ import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Navbar from "@/components/Navbar";
-import Services from "@/components/services";
+// import Services from "@/components/services";
 import Work from "@/components/Work";
 import { useEffect, useState } from "react";
 import { Toaster } from "react-hot-toast";

@@ -123,6 +123,12 @@ export const workData = [
     bgImage: "/google-gemini-clone.png",
     githubLink: "https://github.com/sohelshaikh74/hirely-job-portal",
   },
+  {
+    title: "Social Media App",
+    description: "Frontend",
+    bgImage: "/globo-social-media.png",
+    githubLink: "https://globo-social-media.netlify.app/",
+  },
 ];
 
 export const serviceData = [
