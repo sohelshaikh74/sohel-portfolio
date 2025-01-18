@@ -129,6 +129,12 @@ export const workData = [
     bgImage: "/globo-social-media.png",
     githubLink: "https://globo-social-media.netlify.app/",
   },
+  {
+    title: "Landing Page",
+    description: "Frontend (React.js)",
+    bgImage: "/landing-page.png",
+    githubLink: "https://globo-social-media.netlify.app/",
+  },
 ];
 
 export const serviceData = [
