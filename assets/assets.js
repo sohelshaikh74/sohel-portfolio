@@ -88,15 +88,14 @@ export const workData = [
   {
     title: "Talkify Chat-app",
     description: "Full-Stack (MERN)",
-    bgImage: "/work-4.png",
-    githubLink:
-      "https://sohelshaikh74.github.io/FusionFlavors.ResturantWebsite/",
+    bgImage: "/talkify.png",
+    githubLink: "https://github.com/sohelshaikh74",
   },
   {
     title: "Hirely Job Portal",
     description: "Full-Stack (MERN)",
     bgImage: "/work-1.png",
-    githubLink: "https://github.com/sohelshaikh74/hirely-job-portal",
+    githubLink: "https://hirely-job-portal.onrender.com/",
   },
   {
     title: "YouTube Clone",
